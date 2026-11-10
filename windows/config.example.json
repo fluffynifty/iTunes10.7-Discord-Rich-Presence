@@ -1,0 +1,8 @@
+{
+    "discord_client_id": "YOUR_DISCORD_APPLICATION_ID",
+    "spotify_client_id": "",
+    "spotify_client_secret": "",
+    "port": 5055,
+    "token": "",
+    "large_image": "itunes"
+}
